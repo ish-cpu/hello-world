@@ -1,3 +1,3 @@
 # hello-world
 testing my first repository
-this is me leaning to use GitHub
+this is me learning to use GitHub
